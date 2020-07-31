@@ -1,0 +1,59 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 0px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {}
+
+h3 {}
+
+.back{
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 220px;
+}
+
+.top-cloud {
+  margin-left: 330px;
+  margin-bottom: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+.heading{
+  font-size: 60px;
+  color: #45b29a;
+}
+
+.web{
+  font-size: 20px;
+  color: #45b29a;
+  font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+.bottom-container{
+  background-color: #c5ded7;
+}
+.contact-me{
+  background-color: #c5ded7;
+  margin: 0;
+padding: 42px;
+}
+.footer-link{
+  color: #45b29a;
+}
+.copyright{
+  color: #45b29a;
+}
+.btnn{
+  box-sizing: border-box;
+  height: 10px;
+  width: 100px;
+  background-color: blue;
+}
